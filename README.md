@@ -1,3 +1,3 @@
-# kPax
+# kPAX
 
-- per Block Supply: 0.8 kPax (800000000000000000)
+- per Block Supply: 0.8 kPAX (800000000000000000)
