@@ -1,12 +1,30 @@
-node_modules
-.env
-coverage
-coverage.json
-typechain
-abi
-flat
-package-lock.json
+# OS X
+.DS_Store*
+Icon?
+._*
 
-#Hardhat files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+# npm
+node_modules
+package-lock.json
+*.log
+*.gz
+
+# local env variables
+.env
+
+# vscode
+.history
+
+# hardhat
 cache
 artifacts
+typechain
